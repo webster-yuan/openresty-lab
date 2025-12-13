@@ -1,0 +1,6 @@
+{
+  "runtime.builtin": {
+    "ngx": true
+  },
+  "diagnostics.globals": ["ngx"]
+}

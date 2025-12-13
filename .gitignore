@@ -1,0 +1,6 @@
+# ===== Nginx & OpenResty =====
+logs/
+*.log
+*.pid
+*_temp/
+temp/

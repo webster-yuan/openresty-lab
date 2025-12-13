@@ -1,0 +1,1 @@
+ngx.say("Hello from OpenResty ", ngx.config.nginx_version)
