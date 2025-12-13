@@ -1,6 +1,4 @@
-README.md（初始版，直接复制即可提交）
 
-```markdown
 # openresty-lab
 
 在 Windows 10 上从零搭建的 OpenResty + Lua 学习仓库。  
@@ -90,4 +88,3 @@ VS Code 直接 F5 选 **Lua Debug** 即可单步。
 ## 许可证
 
 MIT © 2025 webster-yuan
-```
